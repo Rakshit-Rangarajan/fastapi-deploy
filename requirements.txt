@@ -1,0 +1,12 @@
+pydantic
+pydantic_core
+starlette
+anyio
+idna
+sniffio
+h11
+typing_extensions
+click
+fastapi
+uvicorn
+a2wsgi
